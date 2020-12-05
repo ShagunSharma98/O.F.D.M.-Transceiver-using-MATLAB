@@ -3,7 +3,7 @@ O.F.D.M. Transceiver framework simulation using Matlab
 
 This simulation model contains the main file of OFDM named as OFDM.m that contains the code of OFDM transceiver.
 
-Rest of the file are the helper functions that will be called as the excution of parent files begins and thy are called.
+Rest of the file are the helper functions that will be called as the execution of parent files begins and thy are called.
 
 You should have a basic understanding of calling functions within functions in MATLAB to execute the transceiver framework.
 
